@@ -20,7 +20,7 @@ title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "신지섭"
-description              : "프로그래밍 배운것 기록하는 "
+description              : "프로그래밍 배운것 기록하는 곳"
 url                      : s135321.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : s135321/s135321.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
