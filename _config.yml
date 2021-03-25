@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "신지섭"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**파이썬** ."
+  bio              : "**파이썬** 배운 내용 기록하는 곳."
   location         : "HAFS"
   email            :
   links:
