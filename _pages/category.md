@@ -1,5 +1,5 @@
 ---
-title: "연도" 
+title: "개념" 
 permalink: /categories/
 layout: single 
 ---
