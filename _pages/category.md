@@ -3,4 +3,4 @@ title: "연도"
 permalink: /categories/
 layout: single 
 ---
-categoriesL:수행평가
+categories:수행평가
