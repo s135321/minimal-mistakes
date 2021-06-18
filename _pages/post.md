@@ -1,6 +1,6 @@
 ---
 title:"연도"
-permalink:/posts/
+permalink: /posts/
 layout:single
 ---
 
